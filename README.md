@@ -11,7 +11,7 @@
 - **Dataset**: Collection of song lyrics (included in the 'lyrics' folder).
 - **Sources**: References to the original sources of the model and dataset.
 - **Permissions**: Information on dataset licensing and model usage rights.
-- **Code**: [Link to the GitHub repository](https://github.com/your-repo-link).
+- **Code**: [Link to the GitHub repository](https://github.com/SoniaWang121/lyrics-emo-bert/tree/main).
 
 ## Files in the Repository
 - `app.py`: Flask application for model demonstration.
