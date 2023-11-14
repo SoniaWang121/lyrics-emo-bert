@@ -1,10 +1,12 @@
 # Lyrics EmoBERT: Sentiment Analysis on Song Lyrics
 
 ## Project Overview
-- **Description**: This project involves fine-tuning the state-of-the-art EmoBERT model for sentiment analysis on song lyrics.
-- **Objective**: Enhance the accuracy and applicability of sentiment analysis in understanding the emotional context of lyrics.
-- **Approach**: Fine-tuning a pre-existing SOTA model (EmoBERT) on a curated dataset of song lyrics.
-- **Solution Summary**: Overview of the fine-tuning process and the performance improvements achieved.
+
+- **Description**: The project revolves around the advanced domain of Natural Language Processing (NLP), specifically focusing on sentiment analysis. Sentiment analysis is a crucial task in NLP, used to determine the emotional tone behind a body of text. This is particularly challenging when analyzing creative content like song lyrics, where the expression of emotions can be nuanced and deeply contextual.Traditional sentiment analysis models often struggle with the complexity and emotional depth of song lyrics. These models may fail to capture the subtleties of language and emotion expressed in lyrics, leading to inaccurate or superficial analysis. This limitation hampers the ability to deeply understand and interpret the emotional content of songs, which can be valuable for various applications such as music recommendation, cultural studies, and emotional AI.
+
+- **Weakness of the current models**: Traditional sentiment analysis models often struggle with the complexity and emotional depth of song lyrics. These models may fail to capture the subtleties of language and emotion expressed in lyrics, leading to inaccurate or superficial analysis. This limitation hampers the ability to deeply understand and interpret the emotional content of songs, which can be valuable for various applications such as music recommendation, cultural studies, and emotional AI.
+- **Approach**: To address this, the project involves fine-tuning a current state-of-the-art model, presumably based on the EmoBERT architecture, to better suit the task of sentiment analysis on song lyrics. Fine-tuning involves adjusting a pre-trained model to specialize in a specific task (in this case, sentiment analysis of lyrics). 
+- **Solution Summary**: The fine-tuned model is expected to demonstrate a heightened ability to analyze and interpret emotions in song lyrics accurately. This enhanced capability allows for a deeper understanding of the emotional landscape in musical content, potentially contributing to more emotionally intelligent AI applications, improved user experiences in music streaming services, and richer cultural and linguistic studies.
 
 ## Model/Dataset Card
 - **Model Used**: EmoBERT.
