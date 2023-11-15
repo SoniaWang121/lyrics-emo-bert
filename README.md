@@ -11,19 +11,19 @@ EmoBERT is a playlist generator. Given the emotion, year, genre and the number o
 
 ## Interactive Demonstration
 
-![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/Kun-Peng/images/demostration.png)
+![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/demostration.png)
 
 ## Model Card
 ### [HuggingFace](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned/tree/main)
-![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/Kun-Peng/images/model_card.png)
+![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/model_card.png)
 
 ## Dataset Card
 ### [HuggingFace](https://huggingface.co/datasets/sonia12138/lyrics-emotion)
-![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/Kun-Peng/images/dataset.png)
+![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/dataset.png)
 
 ## Code Demonstration
 ### [Colab Usage](https://colab.research.google.com/drive/1y2i56MLstUYJ5W02pwD0UJlDHjQCuC3r?usp=sharing)
-![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/Kun-Peng/images/colab.png)
+![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/colab.png)
 
 ## Critical Analysis
 ### Impact:
