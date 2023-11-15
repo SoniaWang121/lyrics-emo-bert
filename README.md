@@ -25,7 +25,7 @@ The fine-tuned model is expected to demonstrate a heightened ability to analyze 
 ### [HuggingFace](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned/tree/main)
 
 ## Code Demonstration
-### [Colab](https://colab.research.google.com/drive/1y2i56MLstUYJ5W02pwD0UJlDHjQCuC3r?usp=sharing)
+### [Colab Usage](https://colab.research.google.com/drive/1y2i56MLstUYJ5W02pwD0UJlDHjQCuC3r?usp=sharing)
 
 ## Critical Analysis
 - **Impact**: Discuss how this fine-tuned model could affect the understanding of emotions in lyrics.
@@ -33,8 +33,8 @@ The fine-tuned model is expected to demonstrate a heightened ability to analyze 
 - **Future Directions**: Ideas for further improving or extending the project.
 
 ## Video Recording
-[](https://github.com/SoniaWang121/lyrics-emo-bert/tree/main).
+[](https://github.com/SoniaWang121/lyrics-emo-bert/tree/main)
 
 ## More Resources
-- [](https://github.com/SoniaWang121/lyrics-emo-bert/tree/main).
+- [](https://github.com/SoniaWang121/lyrics-emo-bert/tree/main)
 
