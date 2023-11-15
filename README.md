@@ -9,6 +9,7 @@ EmoBERT is a playlist generator. Given the emotion, year, genre and the number o
 * Finetune the current SOTA model, based on the BERT architecture.
 * Specialize in the task sentiment analysis of lyrics task.
 
+
 ## 🌟 Model Finetuning
 ### Model Card
 Explore the intricate details of our [model](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned) in its full glory on HuggingFace! 🤖✨
@@ -20,17 +21,26 @@ The challenge: Text Classification with a twist of Emotion Analysis! 🎭📝
 
 Our quest begins in the realm of sentiment, where words convey more than just meaning. However, the path isn't straightforward. The absence of a well-labeled, comprehensive dataset for song lyrics in this domain led us to merge multiple datasets, creating a unique blend suited for our purpose.
 
-### 🔧Multi-faceted Music Dataset
+### Multi-faceted Music Dataset
 Dive into our [dataset's](https://huggingface.co/datasets/sonia12138/lyrics-emotion) universe here! 🌌📊
-![Dataset Deep Dive](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/dataset.png)
+
+<img src="https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/dataset-1.png" width="50%" height="50%">
+<img src="https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/dataset-2.png" width="50%" height="50%">
+<img src="https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/dataset.png" width="50%" height="80%">
 
 ## 💡 Interactive Demonstration
 Step into our [interactive domain](https://huggingface.co/spaces/sonia12138/playlist-generator) where AI meets creativity! 🎨🤖
 ![Interactive Wonderland](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/demostration.png)
 
-## 📚 Code Demonstration
+## 💻 Code Demonstration
 Unleash the power of our model in your own experiments on [Google Colab](https://colab.research.google.com/drive/1y2i56MLstUYJ5W02pwD0UJlDHjQCuC3r?usp=sharing)! 💻🔥
 ![Code Adventure](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/colab.png)
+
+## 📖 Learning from Challenges
+* The absence of a golden standard for lyrics emotion. 
+* This experience underlined the importance of dataset standardization could lead to more universally applicable models with broader generalization capabilities.
+
+<img src="https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/low-accuracy.png" width="80%" height="80%">
 
 ## Critical Analysis
 ### Impact:
