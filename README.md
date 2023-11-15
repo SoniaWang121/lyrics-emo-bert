@@ -11,7 +11,7 @@ EmoBERT is a playlist generator. Given the emotion, year, genre and the number o
 
 ## 🌟 Model Finetuning
 ### Model Card
-Explore the intricate details of our [model](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned/tree/main) in its full glory on HuggingFace! 🤖✨
+Explore the intricate details of our [model](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned) in its full glory on HuggingFace! 🤖✨
 ![Marvel at our Model!](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/model_card.png)
 
 ## 🚀 Downstream Task
