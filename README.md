@@ -15,15 +15,16 @@ EmoBERT is a playlist generator. Given the emotion, year, genre and the number o
 Explore the intricate details of our model in its full glory on HuggingFace! 🤖✨
 ![Marvel at our Model!](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/model_card.png)
 
-### Dataset Card
+## 🚀 Downstream Task
+### Task: Text Classification (Sentiment Analysis)
+The challenge: Text Classification with a twist of Emotion Analysis! 🎭📝
+
+Our quest begins in the realm of sentiment, where words convey more than just meaning. However, the path isn't straightforward. The absence of a well-labeled, comprehensive dataset for song lyrics in this domain led us to merge multiple datasets, creating a unique blend suited for our purpose.
+
+### 🔧Multi-faceted Music Dataset
 #### [HuggingFace Datasets](https://huggingface.co/datasets/sonia12138/lyrics-emotion)
 Dive into our dataset's universe here! 🌌📊
 ![Dataset Deep Dive](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/dataset.png)
-
-## 🚀 Downstream Task
-### Data Prep for Text Classification - Emotion Analysis
-The challenge: Text Classification with a twist of Emotion Analysis! 🎭📝
-Our quest begins in the realm of sentiment, where words convey more than just meaning. However, the path isn't straightforward. The absence of a well-labeled, comprehensive dataset for song lyrics in this domain led us to merge multiple datasets, creating a unique blend suited for our purpose.
 
 ## 💡 Interactive Demonstration
 ### [Playground on HuggingFace, Powered by Gradio](https://huggingface.co/spaces/sonia12138/playlist-generator)
