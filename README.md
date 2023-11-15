@@ -1,4 +1,4 @@
-# Lyrics EmoBERT: Playlist Generator
+# Lyrics EmoBERT: DIY Your Emotion Playlist in Single Step
 
 ## Overview
 
