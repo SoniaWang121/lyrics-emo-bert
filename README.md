@@ -15,14 +15,15 @@ The fine-tuned model is expected to demonstrate a heightened ability to analyze 
 
 ### Model Training
 
-## Interactive demostration
+## Interactive Demonstration
 
 [Welcome to try out the demo here](https://github.com/SoniaWang121/lyrics-emo-bert/tree/main).
 
-![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/Kun-Peng/demostration.png)
+![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/Kun-Peng/images/demostration.png)
 
 ## Model/Dataset Card
 ### [HuggingFace](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned/tree/main)
+![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/Kun-Peng/images/model_card.png)
 
 ## Code Demonstration
 ### [Colab Usage](https://colab.research.google.com/drive/1y2i56MLstUYJ5W02pwD0UJlDHjQCuC3r?usp=sharing)
