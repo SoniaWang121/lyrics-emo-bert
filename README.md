@@ -10,16 +10,19 @@ EmoBERT is a playlist generator. Given the emotion, year, genre and the number o
 * Specialize in the task sentiment analysis of lyrics task.
 
 ## Interactive Demonstration
-
 ![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/demostration.png)
 
-## Model Card
-### [HuggingFace](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned/tree/main)
+## Model Finetuning
+### Model Card
+#### [HuggingFace](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned/tree/main)
 ![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/model_card.png)
 
-## Dataset Card
-### [HuggingFace](https://huggingface.co/datasets/sonia12138/lyrics-emotion)
+### Dataset Card
+#### [HuggingFace](https://huggingface.co/datasets/sonia12138/lyrics-emotion)
 ![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/dataset.png)
+
+## Downstream Task
+### Data Prep
 
 ## Code Demonstration
 ### [Colab Usage](https://colab.research.google.com/drive/1y2i56MLstUYJ5W02pwD0UJlDHjQCuC3r?usp=sharing)
