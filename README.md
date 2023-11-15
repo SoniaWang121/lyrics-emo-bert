@@ -47,4 +47,7 @@ Unleash the power of our model in your own experiments on [Google Colab](https:/
 ## Video Recording
 
 ## More Resources
+* [baseline model](https://huggingface.co/bhadresh-savani/bert-base-uncased-emotion)
+* [Finetune a pretrained model](https://huggingface.co/docs/transformers/training)
+* [Huggingface notebook](https://huggingface.co/docs/transformers/notebooks)
 
