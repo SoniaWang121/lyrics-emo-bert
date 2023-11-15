@@ -39,6 +39,7 @@ Unleash the power of our model in your own experiments on [Google Colab](https:/
   
 ### Insights
 * Challenges in Fine-Tuning
+* Scaricity of current relevant datasets
 ### Future Directions
 * Expanding Emotional Range
 * Integrating with Music Features
