@@ -9,9 +9,6 @@ EmoBERT is a playlist generator. Given the emotion, year, genre and the number o
 * Finetune the current SOTA model, based on the BERT architecture.
 * Specialize in the task sentiment analysis of lyrics task.
 
-## Interactive Demonstration
-![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/demostration.png)
-
 ## Model Finetuning
 ### Model Card
 #### [HuggingFace](https://huggingface.co/sonia12138/bert-base-uncased-emotion-fituned/tree/main)
@@ -23,6 +20,10 @@ EmoBERT is a playlist generator. Given the emotion, year, genre and the number o
 
 ## Downstream Task
 ### Data Prep
+
+## Interactive Demonstration
+[HuggingFace Playground created by gradio](https://huggingface.co/spaces/sonia12138/playlist-generator)
+![image text](https://github.com/SoniaWang121/lyrics-emo-bert/blob/main/images/demostration.png)
 
 ## Code Demonstration
 ### [Colab Usage](https://colab.research.google.com/drive/1y2i56MLstUYJ5W02pwD0UJlDHjQCuC3r?usp=sharing)
